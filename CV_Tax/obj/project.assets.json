@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\projectrepo\\CV_Tax\\CV_Tax\\CV_Tax.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\projectrepo\\CV_Tax-Bincom\\CV_Tax\\CV_Tax.csproj",
       "projectName": "CV_Tax",
-      "projectPath": "C:\\Users\\Admin\\source\\projectrepo\\CV_Tax\\CV_Tax\\CV_Tax.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\projectrepo\\CV_Tax-Bincom\\CV_Tax\\CV_Tax.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\projectrepo\\CV_Tax\\CV_Tax\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\projectrepo\\CV_Tax-Bincom\\CV_Tax\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
