@@ -1,4 +1,5 @@
-﻿using CV_Tax.Models;
+﻿using CV_Tax.Data;
+using CV_Tax.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CV_Tax.Controllers
@@ -7,7 +8,7 @@ namespace CV_Tax.Controllers
     {
         public IActionResult Index()
         {
-            var cv = new CV();
+            var cv = CVData.GetCV();
             return View(cv);
         }
     }

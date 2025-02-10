@@ -32,3 +32,4 @@ C:\Users\Admin\source\projectrepo\CV_Tax\CV_Tax\obj\Debug\net8.0\refint\CV_Tax.d
 C:\Users\Admin\source\projectrepo\CV_Tax\CV_Tax\obj\Debug\net8.0\CV_Tax.pdb
 C:\Users\Admin\source\projectrepo\CV_Tax\CV_Tax\obj\Debug\net8.0\CV_Tax.genruntimeconfig.cache
 C:\Users\Admin\source\projectrepo\CV_Tax\CV_Tax\obj\Debug\net8.0\ref\CV_Tax.dll
+C:\Users\Admin\source\projectrepo\CV_Tax\CV_Tax\obj\Debug\net8.0\CV_Tax.sourcelink.json

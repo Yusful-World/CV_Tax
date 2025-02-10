@@ -4,7 +4,7 @@ namespace CV_Tax.Data
 {
     public class CVData
     {
-        public static CV GetCV = new CV()
+        public static CV GetCV() => new CV()
         {
             Name = "Abdullahi Yusuf O.", 
             Title = "BackEnd Developer", 

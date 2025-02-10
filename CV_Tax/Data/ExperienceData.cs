@@ -9,13 +9,13 @@ namespace CV_Tax.Data
         {
             new() { Establishment = "Igate", Role = ".NetDeveloper", 
                 Period = "March 2023-Feb 2025", 
-                Tasks = {"Developed and maintained enterprise-level web applications using .NET Core and C#.",
+                Tasks = {"•\tDeveloped and maintained enterprise-level web applications using .NET Core and C#.",
                         "•\tDesigned and implemented RESTful APIs for seamless frontend-backend integration."
                 }  
             },
             new() { Establishment = "ArshTag", Role = ".NetDeveloper Intern",
                 Period = "Sept 2022-Feb 2023",
-                Tasks = {"Worked closely with senior developers to learn and implement best practices in .NET development.",
+                Tasks = {"•\tWorked closely with senior developers to learn and implement best practices in .NET development.",
                         "•\tAssisted in database design and optimized SQL queries for more efficient data storage and retrieval."
                 }
             },
