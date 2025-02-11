@@ -56,7 +56,7 @@
 
         private static decimal CRA(decimal income)
         {
-            decimal cra = Math.Max(200000, (income * 0.01m) + (income * 0.2m));
+            decimal cra = Math.Max(200000, (income * 0.01m)) + (income * 0.2m);
             return cra;
         }
     }
