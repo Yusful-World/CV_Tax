@@ -1,0 +1,7 @@
+C:\Users\Admin\source\projectrepo\CV_Tax-Bincom\CV_Tax\obj\Release\net8.0\PubTmp\Out\CV_Tax.exe
+C:\Users\Admin\source\projectrepo\CV_Tax-Bincom\CV_Tax\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\source\projectrepo\CV_Tax-Bincom\CV_Tax\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Admin\source\projectrepo\CV_Tax-Bincom\CV_Tax\obj\Release\net8.0\PubTmp\Out\CV_Tax.dll
+C:\Users\Admin\source\projectrepo\CV_Tax-Bincom\CV_Tax\obj\Release\net8.0\PubTmp\Out\CV_Tax.deps.json
+C:\Users\Admin\source\projectrepo\CV_Tax-Bincom\CV_Tax\obj\Release\net8.0\PubTmp\Out\CV_Tax.runtimeconfig.json
+C:\Users\Admin\source\projectrepo\CV_Tax-Bincom\CV_Tax\obj\Release\net8.0\PubTmp\Out\CV_Tax.pdb

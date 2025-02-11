@@ -19,4 +19,4 @@ This is an ASP.NET Core MVC application that serves two primary functions:
 ### Installation
 1. Clone the repository(https://github.com/Yusful-World/CV_Tax.git)
 2. Run the app locally. 
-3. Can run on Azure pipeline ()
+3. Can run on Azure pipeline on https://cvtax2025.azurewebsites.net
