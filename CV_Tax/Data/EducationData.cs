@@ -4,7 +4,7 @@ namespace CV_Tax.Data
 {
     public class EducationData
     {
-        public static List<Education> GetEducations = new List<Education>()
+        public static List<Education> GetEducations => new List<Education>()
         {
             new() { Institution = "University of Benin", CertificateType = "Bachelor of Science (B.Sc)", 
                     Grade = "Second Class Upper", Date = "Nov-2023" 
