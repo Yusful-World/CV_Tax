@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CV_Tax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4f306d93648066db9cc51883e3201df0db46840")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5be89638b1daba4f6e9c3899bb6586d44832996f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CV_Tax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CV_Tax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
