@@ -16,8 +16,8 @@ namespace CV_Tax.Controllers
         {
             var calculateTax = new TaxCalculator();
             var tax = calculateTax.CalculateTax(income);
-            ViewBag.Tax = tax;
-            return View("Index");
+            
+            return View("Index", tax);
         }
     }
 }

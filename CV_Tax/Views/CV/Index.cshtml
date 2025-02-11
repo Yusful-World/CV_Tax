@@ -16,7 +16,12 @@
             <li>
                 <strong>@experience.Establishment</strong> - @experience.Role
                 <p>@experience.Period</p>
-                <p>@experience.Tasks</p>
+                <ul>
+                    @foreach (var task in experience.Tasks)
+                    {
+                        <li>@task</li>
+                    }
+                </ul>
             </li>
         }
     </ul>

@@ -1,0 +1,17 @@
+﻿@model decimal?
+
+@{
+    ViewData["Title"] = "Tax Calculator";
+}
+
+<h1>Tax Calculator</h1>
+<form method="post" asp-action="GetTax">
+    <label for="income">Enter Annual Income:</label>
+    <input type="number" id="income" name="income" required>
+    <button type="submit">Calculate Tax</button>
+</form>
+
+@if (Model.HasValue)
+{
+    <h2>Tax Payable: ₦@Model.Value.ToString("N")</h2>
+}
